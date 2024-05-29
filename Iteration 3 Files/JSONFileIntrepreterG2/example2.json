@@ -1,0 +1,44 @@
+{
+  "people": [
+    {
+      "name": "Some Guy",
+      "age": 30,
+      "email": "user1@example.com",
+      "address": {
+        "street": "142 Main St",
+        "city": "Some town",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "name": "Another Person",
+      "age": 25,
+      "email": "user2@example.com",
+      "address": {
+        "street": "45256 Main St",
+        "city": "Some town",
+        "zipcode": "54321"
+      }
+    },
+    {
+      "name": "Yet Another",
+      "age": 40,
+      "email": "user3@example.com",
+      "address": {
+        "street": "2552 Main St",
+        "city": "Another town",
+        "zipcode": "67890"
+      }
+    }
+  ],
+  "animals": [
+	{
+      "name": "dog",
+      "lifespan": 20
+    },
+	{
+      "name": "cat",
+      "lifespan": 15
+    }
+  ]
+}
